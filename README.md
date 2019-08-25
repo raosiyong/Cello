@@ -18,6 +18,8 @@ And because Cello works seamlessly alongside standard C you get all the other
 benefits such as great performance, powerful tooling, and extensive 
 libraries.
 
+We would like add Frunzik functional programming to Cello and porting MPC to Cello wroten by OrangeDuck initially.
+
 Examples
 --------
 
