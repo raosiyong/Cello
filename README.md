@@ -20,6 +20,7 @@ libraries.
 
 We would like add Frunzik functional programming to Cello and porting MPC to Cello wroten by OrangeDuck initially.
 
+Also we would like a coroutine to Cello.
 Examples
 --------
 
